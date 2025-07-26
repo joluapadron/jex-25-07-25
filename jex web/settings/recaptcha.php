@@ -1,0 +1,4 @@
+<?php
+$SITE_KEY = "6Lc5lz0rAAAAADQzNkkRaT5bkbe9gBNr43_6uwT4";
+$SECRET_KEY = "6Lc5lz0rAAAAAIk3wPd21eM03aIEMUp_LnRM6PMZ";
+?>
